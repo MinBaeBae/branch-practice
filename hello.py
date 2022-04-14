@@ -1,4 +1,4 @@
-1. How to play Blackjack
+1. How to play Blackjack?
     숫자 합이 21에 가까우면 이기는 게임
     숫자 합이 21을 초과할 경우 패배
     기본적인 룰은 간단한 편 
