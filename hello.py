@@ -1,9 +1,7 @@
-
-
-
-for i in range(1, 10+1):
-    if i%3==0:
-    print('{} hello'. format(i))
-    elif i%5==0:
-        print('world' .format(i))
+1. How to play Blackjack
+    숫자 합이 21에 가까우면 이기는 게임
+    숫자 합이 21을 초과할 경우 패배
+    기본적인 룰은 간단한 편 
+    K, Q, J는 숫자 10에 해당하며,
+    A는 1 혹은 11로 계산할 수 있다.
 
